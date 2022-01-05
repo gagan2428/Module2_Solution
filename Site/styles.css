@@ -26,6 +26,10 @@ h3{
 	width: 20%;
 	font-family: Helvetica, sans-serif;
 }
+section{
+	position: relative;
+	bottom: 15px;
+}
 .chicken{
 	background-color: pink;
 	position: relative;
