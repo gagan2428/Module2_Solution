@@ -21,10 +21,7 @@ p{
 	padding: 25px;
 	background-color: grey;
 }
-section{
-	display: block;
-	margin:0px;
-}
+
 h3{
 	border: 1px solid black;
 	float: right;
