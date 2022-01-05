@@ -21,7 +21,9 @@ p{
 	padding: 25px;
 	background-color: grey;
 }
-
+section{
+	display: block;
+}
 h3{
 	border: 1px solid black;
 	float: right;
