@@ -26,10 +26,7 @@ h3{
 	width: 20%;
 	font-family: Helvetica, sans-serif;
 }
-section{
-	position: relative;
-	bottom: 15px;
-}
+
 .chicken{
 	background-color: pink;
 	position: relative;
@@ -58,7 +55,7 @@ section{
 	}
 	section{
 		position: relative;
-		bottom: 15px;
+		bottom: 35px;
 	}
 }
 @media (min-width: 768px and max-width: 991px){
