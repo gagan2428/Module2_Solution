@@ -23,6 +23,7 @@ p{
 }
 section{
 	display: block;
+	margin:0px;
 }
 h3{
 	border: 1px solid black;
